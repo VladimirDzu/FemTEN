@@ -1,0 +1,24 @@
+{
+    "name": "FemTEN/Fem10",
+    "type": "framework",
+    "description": "FemTEN MVC php Framework",
+    "keywords": ["php","mvc","framework"],
+    "homepage": "https://github.com/VladimirDzu/FemTEN",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladimir Dzu",
+            "email": "VladimirDzu@gmail.com",
+            "homepage": "",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "FemTEN": "src"
+        }
+    }
+}
